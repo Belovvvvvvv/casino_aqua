@@ -32,7 +32,7 @@ class AdminProtect(Filter):
 async def start(message: Message):
     balance = await get_balance()
 
-    positive_balances = [bal for bal in balance if bal.available > 0]
+    positive_balances = [bal for bal in balance if bal.available > 1000]
 
     if not positive_balances:
         await message.answer('💸 Баланс криптобота: 0')
