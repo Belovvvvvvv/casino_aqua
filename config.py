@@ -105,7 +105,7 @@ pm_error_win_msg = """Победа!
 Выигрыш будет начислен администрацией вручную! Для этого отпишите админу в лс {support_link}""" # support_link - ссылка на ТП
 
 # Ссылки
-support_link = "https://t.me/h1gurodev" # Ссылка на ТП
-rules_link = "https://t.me/h1cloud/1" # Ссылка на правила
-news_link = "https://t.me/h1cloud" # Ссылка на новостной
-game_link = "https://t.me/h1cloud" # Ссылка на канал отыгрыша ставок
+support_link = "@CasinoMonkeyy" # Ссылка на ТП
+rules_link = "https://t.me/+s9nb2PuPSkUwMWJk" # Ссылка на правила
+news_link = "https://t.me/+s9nb2PuPSkUwMWJk" # Ссылка на новостной
+game_link = "https://t.me/+s9nb2PuPSkUwMWJk" # Ссылка на канал отыгрыша ставок
