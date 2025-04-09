@@ -15,9 +15,9 @@
 
 # Основые настройки
 
-BOT_TOKEN = "" # Токен бота из BotFather
-CRYPTO_PAY_TOKEN = "" # Токен CryptoBot (@send -> /start -> Crypto Pay -> создать приложение -> безопасность -> createcheck -> включаешь -> transfer -> включаешь -> назад -> Изменить приложение -> меняешь название -> назад -> api токен -> ставишь токен)
-ADMIN_LIST = [33333333, 123213213] # ID Админов
+BOT_TOKEN = "7090737490:AAEYFkvY4W_XfhS5VXl6WrubkUNQvQRa0cs" # Токен бота из BotFather
+CRYPTO_PAY_TOKEN = "367735:AAhHKsvllJmCm5l5Buq6zl7j7T4woXXY6jU" # Токен CryptoBot (@send -> /start -> Crypto Pay -> создать приложение -> безопасность -> createcheck -> включаешь -> transfer -> включаешь -> назад -> Изменить приложение -> меняешь название -> назад -> api токен -> ставишь токен)
+ADMIN_LIST = [8137917041] # ID Админов
 
 # Если вы хотите дописать какую-то игру, то нужно добавить ее в список, а так-же app/games.py нужно дописать её обработчик.
 
